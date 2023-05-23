@@ -1,6 +1,6 @@
 # Printer_plugin_pda_urovo
 
-A new Flutter plugin project.
+A flutter plugin to print simple text on a PDA Urovo
 
 ## Getting Started (by installing the plugin)
  
