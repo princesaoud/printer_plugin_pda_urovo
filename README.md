@@ -1,16 +1,28 @@
-# printer_plugin
+# Printer_plugin_pda_urovo
 
 A new Flutter plugin project.
 
-## Getting Started
-
+## Getting Started (by installing the plugin)
  
+> add the snippet below in the file -> pubspec.yaml
 
-# printer_plugin_example
+```
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  printer_plugin:
+    path:[printer_plugin_pda_urovo](https://github.com/princesaoud/printer_plugin_pda_urovo)
+ 
+```
 
 Demonstrates how to use the printer_plugin plugin.
 
 Example snippet:
+
+```
+
 
 import 'package:flutter/material.dart';
 import 'package:printer_plugin/printer_plugin.dart';
@@ -54,3 +66,5 @@ class _MyAppState extends State<MyApp> {
                 }
         }
 }
+```
+
